@@ -1,8 +1,6 @@
 # NYTimes-Latent-Semantic-Analysis-with-PCA
 Latent Semantic Analysis of New York Times articles using PCA and logistic regression to distinguish art and music stories.
 
-# NYTimes Latent Semantic Analysis with PCA
-
 ## Overview
 
 This project applies **Principal Component Analysis (PCA)** for latent semantic analysis of New York Times articles and uses **logistic regression** to classify articles as **art** or **music**.
